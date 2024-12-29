@@ -1,0 +1,298 @@
+nombre,precio,categoria_id
+Picada de salsa roja con chile,14.00,1
+Picada de salsa roja sin chile,14.00,1
+Picada de salsa verde,14.00,1
+Picada de salsa chipotle,14.00,1
+Picada de salsa ranchera,14.00,1
+Picada de frijoles,14.00,1
+Picada de salsa y frijoles,16.00,1
+Picada de mole,17.00,1
+Picada de asientos de chicharrón,18.00,1
+Picada de papa con nopales,20.00,1
+Picada de huevo revuelto,20.00,1
+Picada de huevo estrellado,20.00,1
+Picada de chicharrón prensado,20.00,1
+Picada de cascara de chicharrón,20.00,1
+Picada de salsa de chicharrón,20.00,1
+Picada de pollo,20.00,1
+Picada de cochinita,20.00,1
+Picada de longaniza,20.00,1
+Picada de picadillo,20.00,1
+Picada de carne asada,20.00,1
+Picada de cecina,20.00,1
+Picada de chinameca,20.00,1
+Picada de tripa,20.00,1
+Picada campechana (2 ingredientes),26.00,1
+Memela de papa con nopales,78.00,2
+Memela de huevo revuelto,78.00,2
+Memela de asientos de chicharron,78.00,2
+Memela de chicarron prensado,78.00,2
+Memela de cascara de chicharron,78.00,2
+Memela de salsa de chicharron,78.00,2
+Memela de pollo,78.00,2
+Memela de cochinita,78.00,2
+Memela de longaniza,78.00,2
+Memela de picadillo,78.00,2
+Memela de carne asada,78.00,2
+Memela de cecina,78.00,2
+Memela de chinameca,78.00,2
+Memela de tripa,78.00,2
+Memela tradicional,78.00,2
+Memela campechana (2 ingredientes),95.00,2
+Huarache de papa con nopales,78.00,3
+Huarache de huevo revuelto,78.00,3
+Huarache de asientos de chicharron,78.00,3
+Huarache de chicarron prensado,78.00,3
+Huarache de cascara de chicharron,78.00,3
+Huarache de salsa de chicharron,78.00,3
+Huarache de pollo,78.00,3
+Huarache de cochinita,78.00,3
+Huarache de longaniza,78.00,3
+Huarache de picadillo,78.00,3
+Huarache de carne asada,78.00,3
+Huarache de cecina,78.00,3
+Huarache de chinameca,78.00,3
+Huarache de tripa,78.00,3
+Huarache campechana (2 ingredientes),95.00,3
+Gordita blanca,14.00,4
+Gordita negra,14.00,4
+Gordita de dulce,14.00,4
+Gordita con mole,16.00,4
+Gordita especial,23.00,4
+Gordita montada sencilla,26.50,4
+Gordita montada especial,32.50,4
+Salbute de pollo,22.50,5
+Salbute de cochinita,22.50,5
+Empanada de queso,15.00,6
+Empanada de queso c/ jamon,15.00,6
+Empanada de pollo,15.00,6
+Empanada de prensado,15.00,6
+Empanada de cochinita,15.00,6
+Empanada de picadillo,15.00,6
+Empanada de longaniza,15.00,6
+Empanada de asientos,15.00,6
+Empanada de asada,15.00,6
+Empanada de tripa,15.00,6
+Empanada campechana (1 ingrediente y queso),19.00,6
+Tostada de pollo,21.00,7
+Tostada de cochinita,21.00,7
+Tostada de picadillo,21.00,7
+Entomatada con pollo (3 piezas),59.00,8
+Entomatada con huevo (3 piezas),59.00,8
+Enfrijolada con pollo (3 piezas),59.00,8
+Enfrijolada con huevo (3 piezas),59.00,8
+Enmolada con pollo (3 piezas),64.00,8
+Platanitos fritos,24.50,9
+Torta de pollo,40.00,10
+Torta de longaniza,40.00,10
+Torta de cochinita,40.00,10
+Torta de chinameca,40.00,10
+Torta de carne asada,40.00,10
+Torta campechana (2 ingredientes),52.00,10
+Huevos al gusto (c/ jamon longaniza tirados en salsa a la mexicana),65.00,11
+Huevos divorciados,77.00,11
+Huevos rancheros,77.00,11
+Huevos motuleños,77.00,11
+Tamal ranchero,23.50,12
+Bomba veracruzana,25.00,12
+Chilaquiles con pollo,69.50,12
+Chilaquiles con asada,84.50,12
+Chilaquiles con pollo y bisteck,89.50,12
+Carne de chinameca,84.50,12
+Chilaquiles con pollo y chinameca,95.50,12
+Tampiqueña,138.50,12
+Cecina huasteca,122.50,12
+Chinameca huasteca,122.50,12
+Chiles rellenos (2 piezas),69.50,12
+Taco de cochinita,15.00,13
+Taco de chinameca,15.00,13
+Taco de cecina,15.00,13
+Taco de carne asada,15.00,13
+Taco de longaniza,15.00,13
+Taco de tripa,15.00,13
+Taco de prensado ,15.00,13
+Taco campechano (2 ingredientes),19.50,13
+Tacos dorados de pollo (3 piezas),48.00,13
+Tacos dorados de papa c/ longaniza,35.00,13
+Caldo de consomé de pollo,56.50,14
+Pozole,79.00,14
+Mondongo,79.00,14
+Ensalada rusa con pollo,67.00,15
+Ensalada rusa con atun,67.00,15
+Cocktel de fruta,55.00,16
+Pan dulce,14.00,17
+Flan napolitano,39.50,17
+Pan de elote,34.50,17
+Pay de limón,40.50,17
+Pay de queso,40.50,17
+Agua de jamaica,22.00,18
+Agua de naranja,22.00,18
+Agua de horchata,22.00,18
+Agua del día,22.00,18
+Agua de limon,22.00,18
+Jarra de agua de jamaica,88.00,18
+Jarra de agua de naranja,88.00,18
+Jarra de agua de horchata,88.00,18
+Jarra de agua del día,88.00,18
+Jarra de agua de limon,88.00,18
+Refresco de 600 ml,29.00,19
+Refresco de lata,29.00,19
+Refresco rellenable,29.00,19
+Coca cola light de lata,29.00,19
+Fuze tea de 600 ml,29.00,19
+Agua mineral,29.00,19
+Agua ciel,22.00,19
+Jugo de naranja,35.00,20
+Jugo de zanahoria,39.00,20
+Jugo de piña,39.00,20
+Jugo de toronja,39.00,20
+Jugo de naranja con zanahoria,39.00,20
+Jugo de naranja con piña,39.00,20
+Jugo verde,39.00,20
+Jarra de jugo de naranja,148.00,20
+Chocomilk,39.00,21
+Licuado de fresa,39.00,21
+Licuado de platano,39.00,21
+Licuado de melón,39.00,21
+Licuado de papaya,39.00,21
+Café negro chico,17.00,22
+Café negro grande,22.50,22
+Café con leche chico,22.50,22
+Café con leche grande,28.50,22
+Capuccino,30.00,22
+Champurrado chico,25.00,22
+Champurrado grande,31.50,22
+Corona media,34.00,23
+Negra modelo,37.50,23
+Modelo especial,37.50,23
+Tarjeta Monedero,15.00,24
+Paquete Desayunes,100.00,25
+Paquete Dobles,75.00,25
+Paquete Guste,135.00,25
+Paquete Llenes,105.00,25
+Paquete Norteño,150.00,25
+Paquete Quemes,95.00,25
+Paquete Regional,100.00,25
+Paquete Alcance,60.00,26
+Paquete Nutras,80.00,26
+Paquete Piques,75.00,26
+Paquete Rico,90.00,26
+Paquete Dulce,37.00,27
+Enchilada c/Chinameca 1pza,25.00,28
+Enchilada c/Huevo Revuelto 1pza,18.50,28
+Enchilada c/Huevo Revuelto 3pzs,73.00,28
+Enchilada c/Longaniza 1pza,25.00,28
+Enchilada c/Picadillo 1pza,25.00,28
+Enchilada c/pollo 1pza,18.50,28
+Enchiladas c/Chinameca 3pzs,73.00,28
+Enchiladas c/Longaniza 3pzs,73.00,28
+Enchiladas c/Picadillo 3pzs,73.00,28
+Enfrijolada c/Chinameca 1pza,23.50,28
+Enfrijolada c/Huevo Revuelto 1pza,17.50,28
+Enfrijolada c/Longaniza 1pza,23.50,28
+Enfrijolada c/Picadillo 1pza,23.50,28
+Enfrijolada c/Pollo 1pza,17.50,28
+Enfrijoladas c/Chinameca 3pzs,69.00,28
+Enfrijoladas c/Longaniza 3pzs,69.00,28
+Enfrijoladas c/Picadillo 3pzs,69.00,28
+Enfrijoladas Huevo Revuelto 3pzs,69.00,28
+Entomatada c/Chinameca 1pza,23.50,28
+Entomatada c/Huevo Revuelto 1pza,17.50,28
+Entomatadas c/Huevo Revuelto 3pzs,69.00,28
+Entomatada c/Longaniza 1pza,23.50,28
+Entomatada c/Picadillo 1pza,23.50,28
+Entomatada c/Pollo 1pza,17.50,28
+Entomatadas c/Chinameca 3pzs,69.00,28
+Entomatadas c/Longaniza 3pzs,69.00,28
+Entomatadas c/Picadillo 3pzs,69.00,28
+Ingrediente extra sodas,8.50,29
+Agua p/Nescafe Chico,13.50,29
+Agua p/Nescafe Grande,19.00,29
+Vaso Leche Chico,19.50,29
+Vaso Leche Grande,23.00,29
+Vaso Clavel Chico,29.50,29
+Vaso Clavel Grande,39.00,29
+Litro Agua de Naranja,43.00,29
+Litro Champurrado,92.50,29
+Litro Horchata,43.00,29
+Litro Jamaica,43.00,29
+Litro Jugo Naranja,76.00,29
+½ Jarra Horchata,44.00,29
+½ Jarra Jamaica,44.00,29
+½ Jarra Naranja,44.00,29
+½ Jarra agua del dia,44.00,29
+½ Jarra Limonada c/Mineral,62.50,29
+½ Jarra Naranjada c/Mineral,62.50,29
+Jarra Agua del Dia,80.00,29
+Jarra Agua Mineral,53.50,29
+Jarra Jugo Combinado,142.00,29
+Jarra Jugo Piña,142.00,29
+Jarra Jugo Zanahoria,142.00,29
+Jarra Limonada c/Mineral,119.50,29
+Jarra Naranjada c/Mineral,119.50,29
+Limonada c/Mineral,27.50,29
+Naranjada c/Mineral,27.50,29
+Ord Yogurth Chi,19.50,29
+Ord Yogurth Gde,29.50,29
+Fruta,14.00,29
+Fruta Picada,20.00,29
+Ingrediente Extra Picada,5.00,30
+Ingrediente Extra Huarache,15.50,30
+Ingrediente Extra Memela,15.50,30
+Ingrediente Extra Empanada,3.00,30
+Extra Huevo Cocido,15.00,30
+Extra Huevo Estrellado,15.00,30
+Extra Aguacate 1pza,5.00,30
+Extra Frijol,3.50,30
+Extra Mole,4.50,30
+Extra Queso,3.50,30
+Extra Lechuga,3.50,30
+Extra Repollo,3.50,30
+Extra Caldo Mondongo,10.50,30
+Extra Caldo Pozole,10.50,30
+Extra Porción Gallina,68.50,30
+Extra Porción Maíz Pozolero,16.00,30
+Extra Porción de Mondongo,39.00,30
+Extra Porción Pozole,39.00,30
+Orden de Frijoles Aguados,20.00,31
+Orden de Crema,20.00,31
+Orden de Mole,20.00,31
+Orden de Prensado,20.00,31
+Orden de Queso,20.00,31
+Orden de Salsa de Chicharrón,20.00,31
+Orden de Tortillas a mano 3pzs,10.50,31
+Orden de Aguacate 5pzs,25.00,31
+Orden de Arroz,21.00,31
+Orden de Frijol Refrito,21.00,31
+Orden de Guacamole,26.50,31
+Orden de Sopa,25.00,31
+Orden de Ensalada,21.00,31
+Orden de Puré de Papa,21.00,31
+Chilaquiles c/Mole Pollo,82.00,32
+Chilaquiles c/Mole Pollo y Bisteck,93.50,32
+Chilaquiles c/Cochinita,82.00,32
+Chilaquiles c/Cochinita y Bisteck,93.50,32
+Chilaquiles c/Pollo y Chinameca,89.50,32
+Jamón a la Plancha,10.50,32
+Lata de Atún,38.00,32
+Postre del día,16.00,32
+Bisteck Asada C/Ensalada,79.00,32
+Bisteck Asado Natural,52.50,32
+Cecina C/Chilaquiles C/Pollo,110.50,32
+Cecina C/Ensalada,110.50,32
+Cecina Natural,58.00,32
+Filete a la Parrilla,108.50,32
+Salsa Chipotle Vaso 1/4 Lt,27.50,33
+Salsa Chipotle Vaso 1/2 Lt,41.00,33
+Salsa Chipotle Vaso 1 Lt,69.50,33
+Salsa Habanero Vaso ¼ Lt,86.50,33
+Salsa Habanero Vaso ½ Lt,132.50,33
+Salsa Habanero Vaso 1 Lt,245.00,33
+Salsa Macha Vaso ¼ Lt,86.50,33
+Salsa Macha Vaso ½ Lt,132.50,33
+Salsa Macha Vaso 1 Lt,245.00,33
+Salsa Verde Vaso ¼ Lt,27.50,33
+Salsa Verde Vaso ½ Lt,41.00,33
+Salsa Verde Vaso 1 Lt,69.50,33
+Mole ½ Litro,42.00,33
+Mole 1 Litro,77.50,33
